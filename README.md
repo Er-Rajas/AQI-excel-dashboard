@@ -12,9 +12,8 @@ The project turns a country-level AQI dataset into a compact analytical view of 
 
 ## 📸 Dashboard Preview
 
-Upload your final dashboard screenshot to the repository as `dashboard.png`.
-
-![Global AQI Dashboard](dashboard.png)
+![Global AQI Dashboard]
+<img width="1584" height="845" alt="Screenshot 2026-09-23 134412" src="https://github.com/user-attachments/assets/26b69a52-d694-4554-80f3-ff4dbb136197" />
 
 ---
 
